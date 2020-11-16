@@ -262,7 +262,7 @@ df.style
 
 
 
-
+```html
 <style  type="text/css" >
 </style><table id="T_e12d24b6_27f4_11eb_9943_54e1ad281be9" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Degree Centrality</th>        <th class="col_heading level0 col1" >Closeness Centrality</th>        <th class="col_heading level0 col2" >Betweenness Centrality</th>        <th class="col_heading level0 col3" >Page Rank</th>    </tr></thead><tbody>
                 <tr>
@@ -371,7 +371,7 @@ df.style
                         <td id="T_e12d24b6_27f4_11eb_9943_54e1ad281be9row14_col3" class="data row14 col3" >Extra</td>
             </tr>
     </tbody></table>
-
+```
 
 
 # Isolation and Connectivity
@@ -560,7 +560,7 @@ dfh.style
 
 
 
-
+```html
 <style  type="text/css" >
 </style><table id="T_e2a3a40d_27f4_11eb_bfda_54e1ad281be9" ><thead>    <tr>        <th class="blank level0" ></th>        <th class="col_heading level0 col0" >Hub/Tv-show/node name</th>    </tr></thead><tbody>
                 <tr>
@@ -724,7 +724,7 @@ dfh.style
                         <td id="T_e2a3a40d_27f4_11eb_bfda_54e1ad281be9row39_col0" class="data row39 col0" >tagesschau</td>
             </tr>
     </tbody></table>
-
+```
 
 
 # Conclusion
